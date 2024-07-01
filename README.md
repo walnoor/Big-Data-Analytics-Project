@@ -9,7 +9,6 @@ Confirmed Positive Cases of COVID-19 in Ontario
 5. Conclusions and Future Work
 
 # Repository Contents
-- Directory containing the working dataset.
 - Jupyter Notebooks with technical reports.
 - Compiled technical reports in PDF format.
 - Project overview and instructions(README.md).
