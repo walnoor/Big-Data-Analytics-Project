@@ -16,13 +16,15 @@
 # Repository Contents
 
 **- Jupyter Notebooks:** This folder contains all the technical reports and analysis.
+
 **- Compiled Technical Reports:** Here, you’ll find the PDF versions of our technical reports.
+
 **- Project Overview and Instructions:** README.md: You’re reading it now! This file gives an overview of the project and instructions on how to navigate the repository.
 
 # Dataset Link
 
-access to the dataset used for this project:
+**access to the dataset used for this project:**
 https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
 
-download the dataset:
+**download the dataset:**
 https://data.ontario.ca/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/455fd63b-603d-4608-8216-7d8647f43350/download/conposcovidloc.csv
