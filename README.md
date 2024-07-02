@@ -4,9 +4,13 @@
 # Project Stages
 
 **1-Data Cleaning and Preprocessing:** This stage involves handling missing values, encoding categorical variables, and normalizing the data to prepare it for analysis.
+
 **2-Exploratory Data Analysis (EDA):** analyze the data distributions, look at correlations, and visualize key patterns to get a better understanding of the dataset.
+
 **3-Model Selection and Training:** In this stage, choosing the appropriate machine learning models and train them on our dataset.
+
 **4-Model Evaluation and Comparison:** evaluate the performance of the models using various metrics like accuracy, precision, and recall, and then compare the results to select the best model.
+
 **5-Conclusions and Future Work:** Finally, summarize the findings, draw conclusions, and suggest possible directions for future work.
 
 # Repository Contents
