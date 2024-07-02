@@ -15,7 +15,7 @@
 
 # Repository Contents
 
-**- Jupyter Notebooks:** This folder contains all the technical reports and analysis.
+**- Technical Reports:** This folder contains all the technical reports and analysis.
 
 **- Compiled Technical Reports:** Here, you’ll find the PDF versions of our technical reports.
 
